@@ -55,7 +55,7 @@
   - [Окна Мира](https://f-okna-mira.pink-code.ru/)
 #### Vue\Nuxt
 - [lemma](https://place.lemma.ru/) - фронт на nuxt, бэк на laravel
-- [amurfarma](https://amurfarma.ru/) - оформление заказа + ЛК + страница с системой лояльности на vuejs, на бэкенде bitrix + slip для api
+- [amurfarma](https://amurfarma.ru/) - оформление заказа + ЛК + страница с системой лояльности на vuejs, на бэкенде bitrix + slim для api
 
 
 #### Другое
